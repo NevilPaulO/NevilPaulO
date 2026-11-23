@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160">
+<defs><linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6f91" stop-opacity="0"/><stop offset="0.5" stop-color="#7a1f6e"/><stop offset="1" stop-color="#0b0628"/></linearGradient></defs>
+<path fill="url(#f)" d="M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,160 L0,160 Z">
+  <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,160 L0,160 Z;M0,60 C200,100 400,20 600,60 C800,100 1000,20 1200,60 L1200,160 L0,160 Z;M0,60 C200,20 400,100 600,60 C800,20 1000,100 1200,60 L1200,160 L0,160 Z"/>
+</path>
+<text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', Helvetica, Arial, sans-serif" font-size="18" fill="#ffd1ea" letter-spacing="4">ありがとう  ✦  THANKS FOR VISITING</text>
+<g opacity="0.56">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="832,-30; 943,190" dur="10.8s" begin="-4.8s" repeatCount="indefinite"/>
+    <path d="M0,-4.9 C4.4,-3.0 3.5,3.0 0,4.9 C-3.5,3.0 -4.4,-3.0 0,-4.9 Z" fill="#ff86b8">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="3.7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.65">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="732,-30; 920,190" dur="9.6s" begin="-4.5s" repeatCount="indefinite"/>
+    <path d="M0,-5.9 C5.3,-3.6 4.2,3.6 0,5.9 C-4.2,3.6 -5.3,-3.6 0,-5.9 Z" fill="#ffb7d5">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.92">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="374,-30; 476,190" dur="13.7s" begin="-8.5s" repeatCount="indefinite"/>
+    <path d="M0,-5.3 C4.8,-3.2 3.7,3.2 0,5.3 C-3.7,3.2 -4.8,-3.2 0,-5.3 Z" fill="#ffd1e6">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="3.0s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.59">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="895,-30; 958,190" dur="11.4s" begin="-10.8s" repeatCount="indefinite"/>
+    <path d="M0,-8.4 C7.6,-5.0 5.9,5.0 0,8.4 C-5.9,5.0 -7.6,-5.0 0,-8.4 Z" fill="#ff86b8">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.55">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="433,-30; 642,190" dur="10.0s" begin="-4.9s" repeatCount="indefinite"/>
+    <path d="M0,-5.2 C4.7,-3.1 3.6,3.1 0,5.2 C-3.6,3.1 -4.7,-3.1 0,-5.2 Z" fill="#ffd1e6">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.75">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="916,-30; 1034,190" dur="9.3s" begin="-3.0s" repeatCount="indefinite"/>
+    <path d="M0,-6.9 C6.2,-4.1 4.8,4.1 0,6.9 C-4.8,4.1 -6.2,-4.1 0,-6.9 Z" fill="#ff86b8">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.90">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="259,-30; 371,190" dur="7.2s" begin="-4.0s" repeatCount="indefinite"/>
+    <path d="M0,-4.3 C3.9,-2.6 3.0,2.6 0,4.3 C-3.0,2.6 -3.9,-2.6 0,-4.3 Z" fill="#ffb7d5">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.60">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="55,-30; 187,190" dur="10.5s" begin="-7.4s" repeatCount="indefinite"/>
+    <path d="M0,-4.5 C4.0,-2.7 3.1,2.7 0,4.5 C-3.1,2.7 -4.0,-2.7 0,-4.5 Z" fill="#ff86b8">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4.9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.67">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="793,-30; 872,190" dur="12.9s" begin="-8.6s" repeatCount="indefinite"/>
+    <path d="M0,-7.6 C6.8,-4.6 5.3,4.6 0,7.6 C-5.3,4.6 -6.8,-4.6 0,-7.6 Z" fill="#ffd1e6">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="4.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.68">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="873,-30; 957,190" dur="8.7s" begin="-2.1s" repeatCount="indefinite"/>
+    <path d="M0,-5.0 C4.5,-3.0 3.5,3.0 0,5.0 C-3.5,3.0 -4.5,-3.0 0,-5.0 Z" fill="#ff86b8">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.59">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="257,-30; 392,190" dur="11.5s" begin="-1.2s" repeatCount="indefinite"/>
+    <path d="M0,-6.5 C5.9,-3.9 4.6,3.9 0,6.5 C-4.6,3.9 -5.9,-3.9 0,-6.5 Z" fill="#ff86b8">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g><g opacity="0.63">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="239,-30; 336,190" dur="9.6s" begin="-8.4s" repeatCount="indefinite"/>
+    <path d="M0,-6.2 C5.5,-3.7 4.3,3.7 0,6.2 C-4.3,3.7 -5.5,-3.7 0,-6.2 Z" fill="#ff9cc6">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</g>
+</svg>
