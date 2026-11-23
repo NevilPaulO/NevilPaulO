@@ -1,97 +1,104 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nevil%20Paul&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Specialist&descAlignY=58&descSize=20" width="100%" />
-</p>
-
-<!-- Typing intro -->
-<p align="center">
-  <a href="https://nevilpaul.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nevil+Paul+%F0%9F%91%8B;I+build+SaaS+products+for+clients+worldwide;Laravel+%7C+Vue%2FNuxt+%7C+React+%7C+Node;n8n+automations+that+save+hours+every+week;Intercom+%26+Fin+AI+expert;Let's+build+something+great+together+%F0%9F%9A%80" alt="Typing intro" />
-  </a>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <a href="https://nevilpaul.com"><img src="https://img.shields.io/badge/Website-nevilpaul.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/nevilpaul"><img src="https://img.shields.io/badge/Fiverr-Hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="mailto:contact@nevilpaul.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/nevil_codex"><img src="https://img.shields.io/badge/Instagram-nevil__codex-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=NevilPaulO&style=for-the-badge&color=36BCF7&label=Profile+views" />
-</p>
-
----
-
-### 👨‍💻 About me
-
-- 🌍 Working with clients **worldwide** from Nairobi, Kenya
-- 🚀 Building **SaaS products** end to end, from database to UI
-- ⚙️ Creating **n8n automations** for business owners
-- 💬 Setting up and customizing **Intercom & Fin AI**
-- 🤖 Building **AI agents** for support, sales and onboarding
-- 📫 Reach me at **contact@nevilpaul.com**
-
-### 🛠️ Tech stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,react,nodejs,js,ts,tailwind,postgres,mysql,supabase,docker,git,github,vscode&perline=8" />
-  </a>
+  <img src="./assets/banner.svg" width="100%" alt="Nevil Paul banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intercom-1F8DED?style=for-the-badge&logo=intercom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fin%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NevilPaulO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=NevilPaulO&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=24&duration=2800&pause=900&color=FF7AB8&center=true&vCenter=true&width=720&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Nevil+Paul+%F0%9F%8C%B8;I+build+SaaS+products+for+clients+worldwide;Laravel+%E2%9C%A6+Vue%2FNuxt+%E2%9C%A6+React+%E2%9C%A6+Node;n8n+automations+that+save+hours+every+week;Intercom+%26+Fin+AI+specialist+%E2%9A%A1" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=NevilPaulO&theme=tokyo-night&hide_border=true&area=true" />
+  <a href="https://nevilpaul.com"><img src="https://img.shields.io/badge/nevilpaul.com-141321?style=for-the-badge&logo=googlechrome&logoColor=FF7AB8" /></a>
+  <a href="https://www.fiverr.com/nevilpaul"><img src="https://img.shields.io/badge/Hire_me_on_Fiverr-141321?style=for-the-badge&logo=fiverr&logoColor=1DBF73" /></a>
+  <a href="mailto:contact@nevilpaul.com"><img src="https://img.shields.io/badge/Email_me-141321?style=for-the-badge&logo=gmail&logoColor=FF7AB8" /></a>
+  <a href="https://www.instagram.com/nevil_codex"><img src="https://img.shields.io/badge/@nevil__codex-141321?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 </p>
 
-### 📌 Featured projects
+<img src="./assets/divider.svg" width="100%" />
+
+## 🌸 自己紹介 ・ About me
+
+```yaml
+name:      Nevil Paul
+role:      Full-Stack Developer & AI Automation Specialist
+based_in:  Nairobi, Kenya
+works_for: Clients worldwide 🌍
+building:
+  - SaaS products, from database to UI
+  - n8n automations for business owners
+  - Intercom & Fin AI support setups
+  - AI agents for support, sales and onboarding
+status:    Open for freelance & contract work ✨
+```
+
+<img src="./assets/divider.svg" width="100%" />
+
+## ⚔️ 技術 ・ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,react,nodejs,js,ts&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,mysql,supabase,docker,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-141321?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/Intercom-141321?style=for-the-badge&logo=intercom&logoColor=9BE7FF" />
+  <img src="https://img.shields.io/badge/Fin_AI-141321?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-141321?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 📜 作品 ・ Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ [ClawAudit](https://github.com/NevilPaulO/clawaudit)
+### 🛡️ [ClawAudit](https://github.com/NevilPaulO/clawaudit)
 A cinematic control room for OpenClaw autonomy. See risks, checks, skills, schedules and safety signals before trusting unattended automation.
 
-`Python` `AI agents` `Automation`
+![Python](https://img.shields.io/badge/Python-141321?style=flat-square&logo=python&logoColor=FFD43B)
+![AI](https://img.shields.io/badge/AI_agents-141321?style=flat-square&logo=probot&logoColor=FF7AB8)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔗 [Pairhop](https://github.com/NevilPaulO/Pairhop-App)
+### 🔗 [Pairhop](https://github.com/NevilPaulO/Pairhop-App)
 App project in active development. More details coming soon.
 
-`In progress`
+![Status](https://img.shields.io/badge/In_progress-141321?style=flat-square&logo=rocket&logoColor=9BE7FF)
 
 </td>
 </tr>
 </table>
 
-### 🤝 Work with me
+<img src="./assets/divider.svg" width="100%" />
+
+## ⚡ 統計 ・ Stats
 
 <p align="center">
-Open to freelance and contract work with clients worldwide.<br/>
-<b>50+ client reviews on Fiverr</b>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NevilPaulO&show_icons=true&theme=radical&hide_border=true&hide_rank=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=NevilPaulO&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://www.fiverr.com/nevilpaul"><img src="https://img.shields.io/badge/Hire%20me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="https://nevilpaul.com"><img src="https://img.shields.io/badge/Visit%20my%20website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=NevilPaulO&bg_color=141321&color=ff7ab8&line=9be7ff&point=ffd1ea&area=true&area_color=ff7ab8&hide_border=true&title_color=ff7ab8" />
 </p>
 
-<!-- Footer -->
+<img src="./assets/divider.svg" width="100%" />
+
+## 💌 連絡 ・ Work with me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+  <b>Need a web app, an automation or an AI support setup?</b><br/>
+  Let's build it together. 50+ happy clients on Fiverr.
+</p>
+
+<p align="center">
+  <a href="https://www.fiverr.com/nevilpaul"><img src="https://img.shields.io/badge/Start_a_project-FF7AB8?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="https://nevilpaul.com"><img src="https://img.shields.io/badge/Visit_my_site-9BE7FF?style=for-the-badge&logo=googlechrome&logoColor=141321" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" />
 </p>
